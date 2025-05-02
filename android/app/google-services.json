@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "74333091996",
+    "firebase_url": "https://tugas-akhir-50095-default-rtdb.firebaseio.com",
+    "project_id": "tugas-akhir-50095",
+    "storage_bucket": "tugas-akhir-50095.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74333091996:android:a02cf55f390d8782835559",
+        "android_client_info": {
+          "package_name": "com.example.firebase_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBThaeTc4DngK89ElCwUPNb60osz67rC1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74333091996:android:583d74836019d7b3835559",
+        "android_client_info": {
+          "package_name": "com.example.pls"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBThaeTc4DngK89ElCwUPNb60osz67rC1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74333091996:android:f332aa5a6c5c3989835559",
+        "android_client_info": {
+          "package_name": "com.example.ta_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBThaeTc4DngK89ElCwUPNb60osz67rC1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74333091996:android:60199d642194be31835559",
+        "android_client_info": {
+          "package_name": "com.example.tugas_akhir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBThaeTc4DngK89ElCwUPNb60osz67rC1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
